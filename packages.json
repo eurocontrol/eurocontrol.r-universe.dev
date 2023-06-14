@@ -1,0 +1,10 @@
+[
+  {
+    "package": "eurocontrol",
+    "url": "https://github.com/eurocontrol/eurocontrol"
+  },
+  {
+    "package": "pruatlas",
+    "url": "https://github.com/euctrl-pru/pruatlas"
+  }
+]
